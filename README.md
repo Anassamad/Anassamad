@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I'm currently working on small projects to strengthen my fundamentals .<br>I'm looking to collaborate on beginner friendly projects and open-source contribution.<br>I'm looking for help with improving problem solving skills and writing clean efficient code.<br>I'm currently learning core programming concepts, tools and software development.
 
 
